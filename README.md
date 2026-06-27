@@ -47,7 +47,8 @@ The objective of this project is to analyze HR data and provide actionable insig
 
 ## 🖼️ Dashboard Preview
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/55912d04-7a9a-44a2-a5cb-320be311fe64" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/18aee95b-d680-444b-9478-1e270a2dd8a6" />
+
 
 
 ---
@@ -61,14 +62,9 @@ The objective of this project is to analyze HR data and provide actionable insig
 
 ---
 
-## 👩‍💻 Author
 
-**Sindhu**
+🔗 LinkedIn: https://www.linkedin.com/kotari-sindhu
 
-🔗 LinkedIn: https://www.linkedin.com/in/your-linkedin-profile/
+🔗 GitHub: https://github.com/Sindhu-red
 
-🔗 GitHub: https://github.com/your-github-username
 
----
-
-⭐ If you found this project useful, feel free to star this repository.
